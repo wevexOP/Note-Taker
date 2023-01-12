@@ -6,13 +6,6 @@ This simple note taking application allows you to save notes with a title and pl
 ## Prerequisites
 * [NodeJS](https://nodejs.org/)
 
-## Installing
-
-Clone the repository to your local development environment.
-
-```
-git clone 
-```
 
 Navigate to the developer-profile-generator folder using the command prompt.
 
@@ -127,12 +120,6 @@ module.exports = app => {
 * [NodeJS](https://nodejs.org/)
 * Node Packages:
     * [Express](https://www.npmjs.com/package/express)
-
-## Authors
-Amanda Atkins
-* [Portfolio](https://digitalrainstorm.com/)
-* [GitHub](https://github.com/amandalatkins)
-* [LinkedIn](https://www.linkedin.com/in/amandalatkins)
 
 ## License
 This project is licensed under the ISC License.
