@@ -9,7 +9,7 @@ This simple note taking application allows you to save notes with a title and pl
 
 Navigate to the developer-profile-generator folder using the command prompt.
 
-Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer. The Note Taker app is [live on Heroku](https://whispering-woodland-84908.herokuapp.com/) for you to use as well.
+Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3001` in your preferred browswer. 
 
 ## Preview:
 ![Application Preview](demo.gif)
