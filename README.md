@@ -12,7 +12,9 @@ Navigate to the developer-profile-generator folder using the command prompt.
 Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3001` in your preferred browswer. 
 
 ## Preview:
-![Application Preview](demo.gif)
+![Application Preview](./public/assets/images/Screenshot%202023-01-13%20at%2011-16-38%20Note%20Taker.png)
+
+![Application Preview](./public/assets/images/Screenshot%202023-01-13%20at%2011-17-41%20Note%20Taker.png)
 
 ## Deployed Link:
 [Note Taker App](https://whispering-woodland-84908.herokuapp.com/)
