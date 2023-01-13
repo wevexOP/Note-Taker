@@ -11,7 +11,7 @@ This simple note taking application allows you to save notes with a title and pl
 
 Navigate to the developer-profile-generator folder using the command prompt.
 
-Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3001` in your preferred browswer. 
+Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3001` in your preferred browser. 
 
 ## Preview:
 ![Application Preview](./public/assets/images/Screenshot%202023-01-13%20at%2011-16-38%20Note%20Taker.png)
@@ -125,5 +125,3 @@ module.exports = app => {
 * Node Packages:
     * [Express](https://www.npmjs.com/package/express)
 
-## License
-This project is licensed under the ISC License.
